@@ -1,9 +1,11 @@
-### Hyo  /h-jo/ 
+### Hyo /h-jo/ <br>
+Data analyst/scientist with a backround in neuroscience.
 
 <!--
 **soyhyoj/soyhyoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🔭 I’m currently working on data analytics in python <br>
+🔭 I’m currently working on data analytics, mostly with Python
+
 💬 You can find me on on [![Twitter][1.1]][1], on [![LinkedIn][2.1]][2], or on [![Blog][3.1]][3]
 
 <!-- icons without padding -->
