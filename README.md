@@ -1,4 +1,3 @@
-### Hyo - Data analyst/scientist with a backround in neuroscience.
 
 <!--
 **soyhyoj/soyhyoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
