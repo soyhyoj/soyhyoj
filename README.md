@@ -2,7 +2,7 @@
 <!--
 **soyhyoj/soyhyoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🔭 I’m currently working on data analytics, mostly with Python
+🔭 I used to dissect rodent brains to understand how brain works. Currently I’m working on data analytics, mostly interested in understanding human behavior.
 
 💬 You can find me on on [![Twitter][1.1]][1], on [![LinkedIn][2.1]][2], or on [![Blog][3.1]][3]
 
