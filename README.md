@@ -4,7 +4,7 @@
 
 🔭 Former lab geek who used to study how brain works. Currently, looking for behavioral patterns to analyze.
 
-:pencil2: Mostly in Python.
+:pencil2: Python, R, SQL
 
 💬 You can find me on [![Twitter][1.1]][1], on [![LinkedIn][2.1]][2], or on [![Blog][3.1]][3]
 
