@@ -2,7 +2,7 @@
 <!--
 **soyhyoj/soyhyoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🔭 Former lab geek who used to study how brain works. Currently, looking for behavioral patterns to analyze.
+🔭 Former :woman_scientist:, current :woman_technologist: looking for behavioral patterns to analyze
 
 :pencil2: Python, R, SQL
 
